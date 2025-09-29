@@ -14,3 +14,9 @@ Recommendations: Suggest proactive retention strategies based on dashboard findi
 ## Tools
 Data Analysis: Excel
 Visualization: Power BI
+
+## Screenshots
+
+https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26%202.png
+
+https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26.png
