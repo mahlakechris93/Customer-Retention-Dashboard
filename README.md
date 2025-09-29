@@ -17,8 +17,8 @@ Visualization: Power BI
 
 ## Screenshots
 
-## **Executive Summary**
-![Executive Summary](https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26%202.png)
+## **Churn Dashboard**
+![Churn Dashboard](https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26%202.png)
 
-### **Cumulative Performance**
-![Cumulative Performance](https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26.png)
+### **Customer Risk Analysis**
+![Customer Risk Analysis](https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26.png)
