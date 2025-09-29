@@ -17,6 +17,8 @@ Visualization: Power BI
 
 ## Screenshots
 
-https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26%202.png
+## **Executive Summary**
+![Executive Summary](https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26%202.png)
 
-https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26.png
+### **Cumulative Performance**
+![Cumulative Performance](https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26.png)
